@@ -1,4 +1,9 @@
-# elr-offscreen-menus 
+# elr-offscreen-menus
+
+[![Build Status](https://travis-ci.org/Beth3346/elr-offscreen-menus.svg?branch=master)](https://travis-ci.org/Beth3346/elr-offscreen-menus)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![codecov](https://codecov.io/gh/Beth3346/elr-offscreen-menus/branch/master/graph/badge.svg)](https://codecov.io/gh/Beth3346/elr-offscreen-menus)
+[![npm](https://img.shields.io/npm/dm/elr-offscreen-menus.svg?style=flat)]()
 
 a basic content offscreen-menus
 
